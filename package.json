@@ -21,7 +21,10 @@
   "keywords": [
     "shelly"
   ],
-  "author": "Julien Pouget",
+  "author": "Alexander Rydén",
+  "contributors": [
+    "Julien Pouget"
+  ],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/julienpouget/node-shellies-ng/issues"
